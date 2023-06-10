@@ -10,14 +10,14 @@
  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 <br><br><hr>
 GitHub Stats: <br>
- ![](https://github-readme-stats.vercel.app/api?username=nishantcoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=nishantcoder&theme=dark&hide_border=false)<br/> 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantcoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api?username=jiyacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=jiyacoderz&theme=dark&hide_border=false)<br/> 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 ﻿# 🏆 GitHub Trophies <br>
- ![](https://github-profile-trophy.vercel.app/?username=nishantcoder&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+ ![](https://github-profile-trophy.vercel.app/?username=jiyacoderz&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
   
  <br>
 
  --- 
- [![](https://visitcount.itsvg.in/api?id=nishantcoder&icon=0&color=0)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=jiyacoderz&icon=0&color=0)](https://visitcount.itsvg.in)
