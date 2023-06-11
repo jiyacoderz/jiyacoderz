@@ -8,7 +8,7 @@ int main(){
     return ;
 
 }
-void printgoodmorning(n){
+void printgoodmorning(int n){
     for(int i;i<=n;i++){
     printf("good morning\n");
 }
