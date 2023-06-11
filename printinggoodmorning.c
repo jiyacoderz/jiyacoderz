@@ -9,7 +9,7 @@ int main(){
 
 }
 void printgoodmorning(n){
-    for(int i;i<=7;i++){
+    for(int i;i<=n;i++){
     printf("good morning\n");
 }
 return 0;
